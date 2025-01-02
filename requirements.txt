@@ -1,0 +1,8 @@
+streamlit
+transformers
+langchain
+openai
+pinecone-client
+pdfplumber
+python-dotenv
+
